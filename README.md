@@ -1,7 +1,7 @@
 # <div align="center">WELCOME TO MY GITHUB 📝</div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVsdG52eW52Z2oxd2tzamE3NnZjODVja243b3hkb2g3MG53YnVuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4hCrKCTNmKlj6sXwgF/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN6cmdvdmZxZ3lxaDJld210dHY5NzgzZHJqNWEwMDJ6d212ZzNjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif"/>
   <br></br>
 </div>
 
