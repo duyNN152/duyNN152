@@ -25,15 +25,15 @@ name: duynn
 location: Vietnam
 current_job: Developer
 education: FPT University
-  {
+  <>
     "FPT University - Software Engineering",
     "Self-study Full-stack Web development & UX Thinking"
-  }
+  </>
 fields_of_interests:
-  {
+  <>
     "Modern Front-End Frameworks (React, Vue, Svelte)",
     "Web Development",
     "AI-Powered Web Interfaces"
     "UI/UX",
-  }
+  </>
 ```
