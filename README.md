@@ -1,15 +1,8 @@
-<div align="center" style="background-color:#0f0f0f; padding: 20px; border-radius: 10px;">
-  
-  <h1 style="color:#00e5ff; font-family: 'Courier New', monospace;">WELCOME ,<br>I AM NOT IRONMAN ⚙️</h1>
+# <div align="center">WELCOME BACK, I AM NOT IRONMAN 🔥</div>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBlMGF2b3NjYjI1YTFweW1xNnY4MHc1bHRsMndtOTZoZzNyZDJheiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="120" style="border-radius: 10px;"/>
-
-  <p style="color: #cccccc; font-size: 14px; margin-top: 20px;">
-    Building systems, not suits.  
-    <br>
-    Coding with purpose, deploying with style.  
-  </p>
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ5N3YydnpubTd5YjduZjloMmR3MWNncWl5YWlqZjJzM2dub3ExMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif"/>
+  <br></br>
 </div>
 
 <div align="center">
@@ -38,9 +31,9 @@ education: FPT University
   }
 fields_of_interests:
   {
-    "Web Development",
-    "UI/UX",
     "Modern Front-End Frameworks (React, Vue, Svelte)",
+    "Web Development",
     "AI-Powered Web Interfaces"
+    "UI/UX",
   }
 ```
