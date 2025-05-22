@@ -27,7 +27,7 @@ current_job: Developer
 education: FPT University
   {
     "FPT University - Software Engineering",
-    "Autodidact in Full-Stack Web Development & UX Thinking"
+    "Self-study Full-stack Web development & UX Thinking"
   }
 fields_of_interests:
   {
